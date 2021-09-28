@@ -1,1 +1,40 @@
-
+[
+   {
+      "alpha3Code": "AFG",
+      "cities": [
+        {
+          "name": "Herat",
+          "nativeName": "",
+          "population": 0,
+          "geo": ""
+        },
+        {
+          "name": "Kabul",
+          "nativeName": "",
+          "population": 0,
+          "geo": ""
+        }
+      ]
+   },
+   {
+      "alpha3Code": "ALA",
+      "cities": []
+   },
+   {
+      "alpha3Code": "ALB",
+      "cities": [
+        {
+          "name": "Elbasan",
+          "nativeName": "",
+          "population": 0,
+          "geo": ""
+        },
+        {
+          "name": "Petran",
+          "nativeName": "",
+          "population": 0,
+          "geo": ""
+        }
+      ]
+   }
+]
